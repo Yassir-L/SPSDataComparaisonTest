@@ -29,4 +29,4 @@ elif page == "📊 Raw Materials Analytics":
 elif page == "📄 N&PG P4 Data":
     show_p4_data()
 
-st.sidebar.markdown("🆕 Version: Apr 24 Update")
+st.sidebar.markdown("🆕 Version: May 07 Update")
